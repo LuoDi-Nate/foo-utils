@@ -141,4 +141,11 @@
         </dependency>
 
     </dependencies>
+
+    <distributionManagement>
+        <repository>
+            <id>fooluodi-mvn-repo</id>
+            <url>file:/Users/di/Desktop/persionalMavenRepo</url>
+        </repository>
+    </distributionManagement>
 </project>
